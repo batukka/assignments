@@ -181,3 +181,11 @@ h4{
     font-size: 16px;
     color: #F58A07;
 }
+.sec3{
+    margin: auto;
+    background-color:#DCEAF5;
+}
+.sec3 .bl .txt img{
+    Width:33px;
+    Height:34px;
+}
